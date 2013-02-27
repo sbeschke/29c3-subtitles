@@ -721,427 +721,427 @@ However, personally, I think that they deserve a lot more money for their work
 
 181
 00:16:59,340 --> 00:17:03,660
-Ist das denn fairer möglich?
+So can we do this in a fairer way?
 
 182
 00:17:03,660 --> 00:17:15,420
-Das hier sind eine Menge Logos von Kampagnen, Nichtregierungsorganisationen, zivilgesellschaftlichen Organisationen, die für faire IT arbeiten
+Here we have a lot of logos of campaigns, NGOs, civil society organisations working towards fair IT
 
 183
 00:17:15,420 --> 00:17:17,380
-Es sind weltweit sehr viele
+There are lots of them, worldwide
 
 184
 00:17:17,380 --> 00:17:25,140
-Es gibt welche, die vor Ort recherchieren und die Berichte machen, die wir gerade gesehen haben
+Some do research on location and publish the sort of reports we have seen
 
 185
 00:17:27,740 --> 00:17:37,620
-es gibt vor allem in Europa welche, die Lobbyarbeit machen, um die Situation zu verbessern
+Especially in Europe, there are some doing lobby work to improve the situation
 
 186
 00:17:37,620 --> 00:17:42,460
-und welche, die, so wie wir hier, Informationsveranstaltungen dazu machen
+Some do informational events, as we are doing here
 
 187
 00:17:43,860 --> 00:17:49,220
-Diese Folie zeigt die Anbieter fairer IT
+This slide shows the companies offering fair IT
 
 188
 00:17:50,620 --> 00:17:56,660
-Diese Folie hat sich in der Tat ein wenig verändert, und zwar Anfang diesen Monats
+In the beginning of this month, there has been a change to this slide:
 
 189
 00:17:56,660 --> 00:18:00,420
-ist eine Sache hinzugekommen, die ich gleich vorstelle
+One thing has been added, which I will talk about in a minute
 
 190
 00:18:02,860 --> 00:18:09,740
-Ansonsten gibt es kein einziges Angebot, wir können also nicht wählen. Diese schlechte Nachricht habt ihr wahrscheinlich vermutet
+Apart from that, there is not a single offer, so we do not have a choice. You have probably been expecting this bad news
 
 191
 00:18:09,740 --> 00:18:16,860
-Wir als Konsumenten haben nicht die Macht, den Besseren vom Schlechteren zu unterscheiden
+We consumers do not have the power to tell the better from the worse
 
 192
 00:18:16,860 --> 00:18:22,500
-Ich möchte erklären, wieso es schwierig ist, faire IT zu machen
+I would like to explain why it is hard to make fair IT products
 
 193
 00:18:22,500 --> 00:18:29,060
-Apple veröffentlicht jährlich, wen sie beauftragen, ihre Geräte zu bauen
+Apple publishes a yearly supplier report, in which they state their contractors
 
 194
 00:18:29,060 --> 00:18:34,660
-Das ist ein Teil dieser Liste, den ich einfach beliebig ausgeschnitten habe
+Here we see a randomly cropped portion of this list
 
 195
 00:18:34,660 --> 00:18:43,620
-Sie sagen übrigens nur, welche Firma das ist, nicht was sie tut und wo die Produktionsstandorte sind, was sehr wichtig wäre
+They only state the name of the company, not what they actually do and where they are located
 
 196
 00:18:43,620 --> 00:18:46,300
-für die Beurteilung, ob etwas fair ist oder nicht
+which would be very important to assess the fairness
 
 197
 00:18:46,300 --> 00:18:51,060
-Apple sagt nur: Diesen Leuten geben wir Geld für ihre Arbeit
+Apple is only saying: These are the people who we pay to do work for us
 
 198
 00:18:51,060 --> 00:18:56,220
-Man sieht: Es sind sehr viele, und wir sehen hier nur ein Drittel der ganzen Liste
+As you can see, there are many, and we only see a third of the complete list here
 
 199
 00:18:56,220 --> 00:18:58,700
-Das ist ein Problem
+That is a problem
 
 200
 00:18:58,700 --> 00:19:06,040
-Lass die Hälfte dieser Firmen für das iPhone zuständig sein
+Let’s assume half of these companies are involved in making the iPhone
 
 201
 00:19:06,040 --> 00:19:11,860
-Die müssten alle fair agieren, damit das Komplettgerät fair zu nennen wäre
+All of them would have to operate fairly for us to be able to call the final product fair
 
 202
 00:19:11,860 --> 00:19:18,140
-Bekanntermaßen ist ein Computer ein komplexes Gerät, und hier sind auch viele Akteure beteiligt
+As you know, a computer is a complex device, so many actors are involved
 
 203
 00:19:19,660 --> 00:19:29,820
-Nächste Herausforderung: Allein eine Leiterplatte oder Platine hat mindestens 10 verschieden Rohstoffe in sich
+The next challenge is that a circuitboard alone contains at least 10 different raw materials
 
 204
 00:19:34,420 --> 00:19:42,420
-Damit allein die Platine fair zu nennen wäre, müsste man für jeden einzelnen dieser Rohstoffe ein Urteil bilden
+In order to be able to call a circuitboard fair, we would need to judge every single one of these raw materials
 
 205
 00:19:42,420 --> 00:19:44,420
-Und das war nur die Leiterplatte
+And that’s just for the circuitboard
 
 206
 00:19:44,420 --> 00:19:52,780
-Diese Herausforderung ist im Vergleich zum fairen Kaffee wirklich heftig: Kaffee ist genau so ein Rohstoff
+Compared with coffee, this is a big challenge: coffee only has a single raw material
 
 207
 00:19:52,780 --> 00:19:56,540
-Das macht es beim Kaffee sehr einfach, diesen Rohstoff zu sehen
+This makes it easier to look at this raw material with coffee
 
 208
 00:19:56,540 --> 00:19:59,620
-Klar, er wird verarbeitet, und mehrere Menschen sind damit beschäftigt
+Sure, it is being processed by many people
 
 209
 00:19:59,620 --> 00:20:01,620
-aber es gibt nur diesen einen Rohstoff
+but there is only a single raw material
 
 210
 00:20:01,620 --> 00:20:06,220
-Das ist beim Computer leider nicht der Fall
+That, unfortunately, is not the case with computers
 
 211
 00:20:06,220 --> 00:20:10,180
-Nächste Herausforderung: Das Ganze ist global
+The next challenge is that this is a global process
 
 212
 00:20:10,180 --> 00:20:15,420
-Das wäre eigentlich animiert gewesen, aber wegen des Computerwechsels bewegt sich jetzt nichts
+This was supposed to be animated, but since we had to change laptops, it’s not moving
 
 213
 00:20:15,420 --> 00:20:17,940
-Immerhin habe ich das Bild
+At least there is the picture
 
 214
 00:20:17,940 --> 00:20:24,820
-Es sind sehr viele Akteure beteiligt: In Afrika haben wir ein Schiff für die Verschrottung und auch für die Rohstoffe
+Many actors are involved globally: In Africa, there is a ship for scrapping as well as raw materials
 
 215
 00:20:24,820 --> 00:20:28,260
-Südamerika ist ein wichtiges Gebiet für die Rohstoffe
+South America is an important area for raw materials
 
 216
 00:20:28,260 --> 00:20:34,420
-In Fernost wird zusammengebaut; erst die Komponenten, die Chips, Transistoren, Kondensatoren, was auch immer da drin ist
+Lots of manufacturing takes place in the far east: first the components, chips, transistors, capacitors
 
 217
 00:20:34,420 --> 00:20:37,620
-Dann bei den Kontraktfertigern zusammengebaut
+Then the products are assembled by the contractors
 
 218
 00:20:37,620 --> 00:20:42,060
-und zum Beispiel nach Europa geliefert
+and shipped to Europe, for example
 
 219
 00:20:42,060 --> 00:20:46,620
-Mit anderen Worten: sehr viele Länder sind beteiligt, in denen die Gesetze zu beachten sind
+In other words: lots of countries are involved, whose laws are to be taken into account
 
 220
 00:20:46,620 --> 00:20:48,620
-Für ein einzelnes Gerät
+For a single device
 
 221
 00:20:50,420 --> 00:20:58,540
-Und ohne Zweifel ein echtes Problem ist: Wir haben kaum die Möglichkeit, eine Graswurzelbewegung zu machen
+And this makes it very hard to establish a grass roots movement
 
 222
 00:20:58,540 --> 00:21:03,340
-Fairer Kaffee, Bananen, Schokolade, alles das ist entstanden,
+Fair coffee, bananas, chocolate: all of this came into being,
 
 223
 00:21:03,340 --> 00:21:11,180
-weil Menschen eine Plantage besaßen und dort aktiv fair herstellen wollten
+because people owned a plantation and wanted to produce in a fair manner
 
 224
 00:21:12,020 --> 00:21:18,720
-Aber niemand von uns kann einen Computer bauen, komplett mit Chips und allem Drumherum
+But nobody can build a complete computer with all its components
 
 225
 00:21:18,720 --> 00:21:22,920
-Wir sind völlig von der Industrie abhängig
+We are dependent on the industry
 
 226
 00:21:22,920 --> 00:21:26,100
-Das heißt, die Markenhersteller müssen aktiv werden
+This means that the brand companies have to become active
 
 227
 00:21:26,100 --> 00:21:31,420
-Sie müssen verlangen, das Ganze fairer zu gestalten
+They need to demand fairness in the whole process
 
 228
 00:21:33,340 --> 00:21:38,540
-Meine Antwort ist also: Faire Computer sind im Prinzip möglich, aber einfach wird es nicht
+So my answer is: Fair computers are possible, but it won’t be easy
 
 229
 00:21:43,660 --> 00:21:50,980
-Eine Lösung ist sicherlich: Es muss nicht das ganze Gerät fair sein; lass uns einzelne Teile fair machen
+One solution would be not to make a whole fair device, but one that contains fair parts
 
 230
 00:21:50,980 --> 00:21:56,540
-Das ist die Entwicklung, die wir in diesem und vor allem auch im nächsten Jahr sehen
+This is the development we are seeing this year and next year
 
 231
 00:21:56,540 --> 00:22:03,020
-Dass wir allmählich dazu übergehen, dass es Initiativen gibt, die auch ein Angebot schaffen
+Initiatives are starting to appear that create a supply
 
 232
 00:22:03,020 --> 00:22:08,300
-Dass einzelne Teile fair hergestellt werden. Das ist immer nur ein kleiner Teil
+Single parts of devices are being produced fairly, always just a small portion
 
 233
 00:22:08,300 --> 00:22:10,700
-Aber die Machbarkeit alleine ist sehr wichtig
+But even demonstrating the feasibility is very important
 
 234
 00:22:13,620 --> 00:22:19,260
-Das hier habe ich „Ursuppe von Aktivitäten“ genannt
+This is something I call “primordial soup of activities”
 
 235
 00:22:19,260 --> 00:22:23,100
-Ich habe recherchiert, was alles gemacht wird
+I have researched what is being done
 
 236
 00:22:23,100 --> 00:22:30,060
-in Richtung einer faireren IT-Produktion
+towards a fairer IT production
 
 237
 00:22:30,060 --> 00:22:34,100
-Ich möchte ein paar Sachen rausstellen
+I’d like to highlight a few things
 
 238
 00:22:34,100 --> 00:22:39,580
-Das Eine ist: Ein Angebot schaffen, also wir fangen einfach mal an
+One thing is: Let’s just start and create a supply
 
 239
 00:22:42,540 --> 00:22:49,900
-Das Andere ist, Siegel zu machen: wir kennen das Fairtrade-Siegel
+Another: Creating labels; we already know the fairtrade seal
 
 240
 00:22:49,900 --> 00:22:53,420
-zum Beispiel vom Kaffee
+for instance for coffee
 
 241
 00:22:53,420 --> 00:22:57,560
-Wir sehen an einem Siegel: Das wollen wir haben, das ist fair
+A label helps us to recognise that we want to buy something because it is fair
 
 242
 00:22:57,560 --> 00:23:01,340
-Wenn Einzelteile zertifiziert werden könnten, wäre das ein Riesenfortschritt
+If single components could be certified, that would be a big step forwards
 
 243
 00:23:02,620 --> 00:23:07,420
-Ranking ist sehr hilfreicht
+Rankings are very helpful, as well
 
 244
 00:23:07,420 --> 00:23:18,700
-damit ich als Käufer auswählen kann, welcher Markenhersteller für mich der Beste ist, wenn ich ein faires Produkt haben möchte
+so I as a buyer can choose what brand producer is the best with regards to fairness
 
 245
 00:23:18,700 --> 00:23:22,780
-ein mehr oder weniger faires Produkt
+to buy a more or less fair product
 
 246
 00:23:22,780 --> 00:23:24,620
-Auch in diese Richtung wird gearbeitet
+Work is being done in this direction, as well
 
 247
 00:23:24,620 --> 00:23:28,060
-Und, sehr wichtig auch: Gesetzgebung
+And another very important issue: lawmaking
 
 248
 00:23:28,060 --> 00:23:33,220
-Dazu werde ich auch ein paar Beispiele zeigen
+I will show some examples of that, as well
 
 249
 00:23:35,420 --> 00:23:43,500
-Genau das hier möchten wir sehen: Ein iPhone CF für Conflict-Free
+Here is something we would like to see: an iPhone CF for conflict-free
 
 250
 00:23:43,500 --> 00:23:52,300
-Konfliktfrei, das heißt, kein Militär verdient Geld mit dem Abbau von Erzen
+Conflict-free means that no military is financed with the raw materials
 
 251
 00:23:52,300 --> 00:23:59,260
-Das habe ich am Beispiel des Kongo zu Anfang gezeigt. Wohlgemerkt ist das ein kleiner Aspekt des Fairen
+I have shown the situation in the DR Congo. Note that this is only a small aspect of fairness
 
 252
 00:23:59,260 --> 00:24:07,140
-Es geht nicht um Geld, sondern darum, dass die Regierungstruppen und Milizen nicht noch Geld mit dem Handel der Erze verdienen
+It’s about military and militias not earning any money through the production of raw materials
 
 253
 00:24:07,140 --> 00:24:11,300
-und damit die Situation der Bevölkerung vor Ort verschlechtert wird
+thus exacerbating the situation of the local population
 
 254
 00:24:11,300 --> 00:24:15,100
-Das hier war ein Fake der Yes Men,
+This was a fake by the Yes Men,
 
 255
 00:24:15,100 --> 00:24:26,380
-die eine Webseite für ein konfliktfreies iPhone gemacht haben, die genauso aussah, wie die Apple-Website
+who put up a web site for a conflict-free iPhone that looked just like Apple’s web site
 
 256
 00:24:26,380 --> 00:24:34,580
-[Applaus]
+[applause]
 
 257
 00:24:35,620 --> 00:24:40,540
-und das Angebot gemacht haben, man könnte bei Apple das alte iPhone gegen dieses eintauschen
+and offered to take back the old iPhone and exchange it for the conflict-free one
 
 258
 00:24:40,540 --> 00:24:48,300
-In der Tat hat Apple eine Menge Mails bekommen und innerhalb von 24 Stunden diese Webseite verbieten lassen
+In fact, Apple received a lot of mails and had this web site taken down within 24 hours
 
 259
 00:24:48,300 --> 00:24:51,380
-Die war schnell offline
+It was offline really quickly
 
 260
 00:24:51,380 --> 00:24:54,780
-Und dieser Capture wurde zum Glück rechtzeitig gemacht
+Fortunately, someone had made this screen capture in time
 
 261
 00:24:54,780 --> 00:24:58,300
-Das war eine Aktion, aber leider gibt es das nicht. Es war ein Fake
+So unfortunately, there is no iPhone CF: it was a fake
 
 262
 00:24:59,540 --> 00:25:08,980
-Was wir haben, ist das einzige mir bekannte Projekt, wo explizit Fairness reingebaut wurde
+This is the only project I know of that was explicitly built with fairness in mind
 
 263
 00:25:08,980 --> 00:25:15,100
-Es geht um eine Maus; sie sieht so aus, wie eine Maus halt aussieht
+It’s a mouse; looking the way mice do
 
 264
 00:25:15,100 --> 00:25:19,500
-Ihr könnt sie auch gleich am FIfF-Stand noch angucken
+You can have a look at it later at the FIfF booth
 
 265
 00:25:19,500 --> 00:25:28,940
-Hier wurde in einem Laienprojekt mehrere Jahre recherchiert, welche Teile einer Maus man fair herstellen kann
+This is a layman’s project, which has been doing research for several years on what parts of a mouse could be produced fairly
 
 266
 00:25:29,900 --> 00:25:34,540
-Das ist als Einstiegsprojekt gedacht, eine Maus ist da aus vielerlei Hinsicht sehr praktisch
+This is meant to be an introductory product; for several reasons, a mouse is very useful here
 
 267
 00:25:34,540 --> 00:25:40,380
-Es wurde immerhin eine Teilfairness erzeugt
+At least a partial fairness was created
 
 268
 00:25:40,380 --> 00:25:48,100
-Die Widerstände, Kondensatoren, Leiterplatte und die Schalter sind in Deutschland produziert worden
+The resistors, capacitors, circuitboards and switches have been produced in Germany
 
 269
 00:25:48,100 --> 00:25:51,780
-Und das wird automatisch als „fair“ angenommen
+Which we automatically assume to be “fair”
 
 270
 00:25:55,420 --> 00:26:00,580
-Ich bezweifle ja schon, ob überhaupt zum Beispiel die Jobs bei Saturn fair sind
+Well, I have my doubts if all the jobs in Germany, such as at Saturn [a large electronics retail chain], are fair
 
 271
 00:26:00,580 --> 00:26:11,300
-Was nicht geschafft wurde, sind der Chip, Linse, Scrollrad, Kabel, Drehgeber: Die sind noch aus Fernost
+What could not be produced in Germany are the chip, lense, scroll wheel, cable, rotary encoder: there made in the far east
 
 272
 00:26:11,300 --> 00:26:18,300
-und die Arbeitsbedingungen sind dort nicht bekannt, also ist anzunehmen, dass sie so sind, wie ich es eben dokumentiert habe
+with unknown labour conditions, so we have to assume they’re the way I have just shown
 
 273
 00:26:18,300 --> 00:26:26,060
-Was auch in Deutschland passiert ist: Die Bestückung der Leiterplatte, Montage, Herstellung des Gehäuses und Verpackung
+Equipping of the circuitboard, assembly, production of the shell and packaging have also been done in Germany
 
 274
 00:26:26,060 --> 00:26:35,940
-Der Gedanke war also: Ich schaffe es, möglichst viele Produkte aus Deutschland zu holen
+So the general idea was: I try to source as many components from Germany as possible
 
 275
 00:26:35,940 --> 00:26:40,140
-Was ich dort nicht bekomme, hole ich noch aus Fernost, aber ich versuche, es immer besser zu machen
+What I cannot get from Germany, I get from the far east, but I always try to keep improving
 
 276
 00:26:40,140 --> 00:26:44,540
-Jetzt ist so ein Meilenstein erreicht und man kann das Gerät kaufen
+Now the project has reached a milestone, and the device is up for sale
 
 277
 00:26:44,540 --> 00:26:50,380
-für 26,90 Euro plus Versand unter dieser Web-Adresse
+for 26.90 Euros plus shipping under this web address
 
 278
 00:26:52,340 --> 00:26:58,980
-Der Kritikpunkt allenfalls – ich finde das Projekt ziemlich klasse und habe es lange beobachtet und begleitet –
+I think this project is great and I have been watching it for a long time
 
 279
 00:26:58,980 --> 00:27:06,300
-es ist ein Laienprojekt, wurde also in der Freizeit gemacht und die gute Frau kann davon definitiv nicht leben
+It’s a layman’s project, and the lady who organises it does not make a living off of it
 
 280
 00:27:06,300 --> 00:27:15,260
-Der einzige Kritikpunkt, den man nennen kann, ist, dass der Aspekt der Entwicklungszusammenarbeit nicht mehr vorhanden ist
+The only criticism one could state is that there is no aspect of development
 
 281
 00:27:15,260 --> 00:27:29,580
-Das heißt, niemand in China, Vietnam oder sonstwo wurde gefunden, die etwas herstellen konnte, was man fair nennen kann
+Nobody in China, Vietnam or elsewhere could be found who could produce something we could call fair
 
 282
 00:27:29,580 --> 00:27:38,180
-Es wurde alles in Deutschland gemacht und zum Beispiel in China keine Arbeitsplätze geschaffen
+Everything was done in Germany, so that no work was created for instance in China
 
 283
 00:27:38,180 --> 00:27:45,380
-Das ist der einzige Grund, weshalb man hier den Begriff „fair“ recht allgemein sehen muss
+That is the only reason why we need to use a somewhat broader sense of the word “fair”
 
 284
 00:27:45,380 --> 00:27:50,060
-Ansonsten ist das aus meiner Sicht ein Riesenschritt, auch wenn es nur eine Computermaus ist
+Apart from that, I think this is a huge step forward, even if it is only a computer mouse
 
 285
 00:27:52,380 --> 00:27:59,460
-[Applaus]
+[applause]
 
 286
 00:27:59,460 --> 00:28:04,700
-Die nächsten Pläne sind das Scrollrad und Kabel; selbst für das Kabel gab es keinen fairen Hersteller
+The next plans are for the scroll wheel and the cable; even for the cable, no fair manufacturer could be found
 
 287
 00:28:08,220 --> 00:28:15,060
